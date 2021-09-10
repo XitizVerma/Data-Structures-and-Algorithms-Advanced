@@ -1,5 +1,4 @@
-![Banner](https://socialify.git.ci/kothariji/competitive-programming/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
-# Competitive Programming :high_brightness::high_brightness:
+# Xitiz Verma Competitive Programming :high_brightness::high_brightness:
 
 Hello Programmers💻,
 A one-stop destination for all your Competitive Programming Resources.
@@ -102,7 +101,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - [ ] [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
 ---
  ### Binary Search
- - **Aditya Verma** [Video](https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+ - **Xitiz Verma** [Video](https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
  
  **Problems**
 - Allocate Minimum No of pages(GFG)
@@ -315,9 +314,3 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Maximum Length Chain
 - Catalan Number And its Applications
 
-
-### Doubts and queries
-- https://stackoverflow.com/
-
-### Thank you for Contributing :pray: :dizzy:
-![105](https://contributors-img.web.app/image?repo=kothariji/competitive-programming)
